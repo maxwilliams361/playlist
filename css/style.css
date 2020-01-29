@@ -1,0 +1,15 @@
+.songDisplay{
+    display:flex;
+    justify-content:space-between;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+}
+
+p{
+    height:100px;
+}
+
+
